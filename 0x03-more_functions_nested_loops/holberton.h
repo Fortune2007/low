@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef _main_h_
+#define _main_h_
 
 /**
  * _putchar - puts character to standard output
